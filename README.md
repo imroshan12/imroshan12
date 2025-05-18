@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-I'm Sarvesh Roshan, a MERN stack web developer, a quick learner and a software enthusiast.
+I'm Sarvesh Roshan, a mobile developer specializing in React Native.
 </div>
 
 #### Top Technologies
